@@ -5,11 +5,6 @@
 </p>
 
 
-
-### 👨‍🎓 My portfolio website:
- https://somesh.gitbook.io/somesh-fengade/
-
-
 ### :octocat:: &nbsp;About Me
 [![AWS ML Specialty Badge](https://github.com/someshfengde/someshfengde/assets/42097653/d8f9c3c4-c1ca-4fa2-a02b-4edd9a034cf8)](https://www.credly.com/badges/8cb53a05-6b90-402d-bb01-fd9c9e51892c)
 
