@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6 # master (2026-02-18)
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
