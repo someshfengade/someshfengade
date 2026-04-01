@@ -4,18 +4,6 @@
   <img height="500" src="./profile-3d.svg" />
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/ba111d76-75c8-4682-8a0c-716b94b530b5.svg)](https://wakatime.com/@ba111d76-75c8-4682-8a0c-716b94b530b5)
-<!--START_SECTION:waka-->
-
-```python
-From: 20 March 2026 - To: 27 March 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
 ### 👨‍🎓 My portfolio website:
@@ -39,9 +27,7 @@ No activity tracked
 
 
 ### 🔭 &nbsp;I'm currently working on:
-  * Generative AI, Pytorch, lightning ⚡️
-  * kaggle competitions
-
+  * Generative AI & LLMs! 
 
 [![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=someshfengade&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/someshfengade)
 <h3 align="left">Support:</h3>
