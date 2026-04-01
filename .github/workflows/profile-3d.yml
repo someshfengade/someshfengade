@@ -5,7 +5,8 @@ on:
     # Run at 0 am UTC every day
     - cron: '0 0 * * *'
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   update:
     runs-on: ubuntu-latest
